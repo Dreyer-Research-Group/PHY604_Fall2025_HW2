@@ -12,6 +12,6 @@ Once you have a github account, navigate to the following link: [https://classro
 
 Some students have reported issues when cloning via https as in the line above. If this happens to you, you should try to set up SSH via the steps described [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh), and then your line to clone will look more like:
 
-`git clone git@github.com:Dreyer-Research-Group/homework1-yourusername.git'
+`git clone git@github.com:Dreyer-Research-Group/homework1-yourusername.git`
 
 As you work on yout homework, you can `add` and `commit` changes. When you would like to turn in the assignment, make sure you have included all of the latest versions of your files in the latest commit and `push` to the github repo (i.e., with the command `git push`). You should be able to push changes until the deadline, which is **Oct. 1, 2025 at 23:59**, and feel free to `push` at intermediate points, either to back up your work, or if you need help with something (I am able to access your github repo).
